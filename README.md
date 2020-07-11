@@ -1,5 +1,3 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
 <p align="center">
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cintiazago/github-explorer">
