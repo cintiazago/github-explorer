@@ -28,12 +28,6 @@
 
 Localize e salve localmente usando LocalStorage seus repositórios favoritos com o GitHub Explorer!
 
-## 🎨 Layout
-
-<h4 align="center">
-  <img alt="Original" title="Original" src=".github/layout.gif"/>
-</h4>
-
 
 ## 🔨 Tecnologias:
 
