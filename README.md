@@ -1,5 +1,9 @@
 <p align="center">
 
+<h1 align="center">
+    <img alt="GoBarber" title="#githubexplorer" src=".github/capa.png"/>
+</h1>
+
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cintiazago/github-explorer">
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/cintiazago/github-explorer">
@@ -20,6 +24,8 @@
 </p>
 <h2 align="center">
   Bem-vindo ao GitHub Explorer ✔
+
+
 </h2>
 
 ## 🚀 Sobre o Projeto
