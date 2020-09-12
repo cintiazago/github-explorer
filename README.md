@@ -1,8 +1,8 @@
-<p align="center">
-
 <h1 align="center">
     <img alt="GoBarber" title="#githubexplorer" src=".github/capa.png"/>
 </h1>
+
+<p align="center">
 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/cintiazago/github-explorer">
 
@@ -31,6 +31,8 @@
 ## 🚀 Sobre o Projeto
 
 Localize e salve localmente usando LocalStorage seus repositórios favoritos com o GitHub Explorer!
+
+Experimente online <a href="https://gogithubexplorer.herokuapp.com/">aqui</a>!
 
 
 ## 🔨 Tecnologias:
